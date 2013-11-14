@@ -1,6 +1,13 @@
 Modified
 Modified
+<<<<<<< HEAD
 al;skdjfkl;asjf
 asdklfjaskl;fjas
 
 last
+=======
+Modified
+asjdfl;kjasklfjsa
+modified dpasis
+
+>>>>>>> 3b47ac6877f3008303592309cc4beebde50833a4
